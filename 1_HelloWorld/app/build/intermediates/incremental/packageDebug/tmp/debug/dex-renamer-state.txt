@@ -1,0 +1,4 @@
+#Thu Jul 09 11:24:10 KST 2020
+base.0=C\:\\Users\\USER\\AndroidStudioProjects\\camp_training_labs\\1_HelloWorld\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
